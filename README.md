@@ -11,7 +11,7 @@ sudo apt-get install scala ;
 ```
 3. Install [sbt][isbt134].
 4. Install [Scala IDE][iside].
-
+5. Run these commands:
 ```bash
 cd ~/workspace ;
 git clone "https://github.com/darkhipo/etlChron" ;
